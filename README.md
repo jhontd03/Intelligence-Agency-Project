@@ -1,2 +1,2 @@
-# Platzi Intelligence Agency Web
-Part of Curso de Scrapy 🕷
+# Intelligence-Agency-Project
+Final Project Course Web Scraping
